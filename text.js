@@ -1,7 +1,3 @@
-
-# json
-
-
 let clientes = [
     { nome: "João Silva",
          saldo: 1500.75,
@@ -44,4 +40,3 @@ console.log(clientes)
 // Alterando o saldo de um cliente
 clientes[8].saldo = 2000.00;
 console.log(clientes)
-# sacando.js

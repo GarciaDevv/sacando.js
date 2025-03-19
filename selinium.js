@@ -1,0 +1,1 @@
+await driver.get("https://www.google.com.br/")

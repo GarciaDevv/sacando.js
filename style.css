@@ -1,0 +1,37 @@
+*{
+    background-color: white;
+
+
+
+}
+
+.lupa{
+
+    font-size: 5px;
+    transform: scale(0.7);
+
+
+    vertical-align: sub; /* Alinha o ícone um pouco mais abaixo */
+            margin-top: 4px; /* Desce o ícone mais 4px */
+
+ 
+
+}
+
+
+.search{
+    display: flex;
+    justify-content: center;
+    margin-top: 7%; /* ou qualquer valor que você queira */
+    
+    
+
+  
+
+    
+    
+
+
+
+
+}
