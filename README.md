@@ -45,3 +45,4 @@ console.log(clientes)
 clientes[8].saldo = 2000.00;
 console.log(clientes)
 # sacando.js
+# sdadasdada
